@@ -1,0 +1,12 @@
+{
+  "name": "mygamename",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node_modules/.bin/browservefy mygame.js 8080 -- -d"
+  },
+  "dependencies": {
+    "voxel-engine":"",
+    "voxel-player":"",    
+    "browservefy": ""
+  }
+}
